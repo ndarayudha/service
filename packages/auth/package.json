@@ -1,0 +1,14 @@
+{
+  "name": "@service/auth",
+  "version": "0.0.0",
+  "description": "Auth Construct With Handler",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.1134.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.34",
+    "@types/uuid": "^8.3.4"
+  }
+}

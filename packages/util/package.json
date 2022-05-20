@@ -1,0 +1,13 @@
+{
+  "name": "@service/util",
+  "version": "0.0.2",
+  "description": "Uitllity Construct CDK",
+  "private": true,
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.33",
+    "@types/uuid": "^8.3.4"
+  }
+}
